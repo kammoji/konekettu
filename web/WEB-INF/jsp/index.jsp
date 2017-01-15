@@ -8,7 +8,8 @@
         <title>Konekettu new service</title>
     </head>
 
-    <html><body><h1>Konekettu new service</h1>
+    <body><h1>Konekettu new service</h1>
+        <img src="${pageContext.request.contextPath}/public/img/kettu2.png">
 <p>This is the default web page for this server.</p>
 <p>The web server software is running but no content has been added, yet.</p>
         <p>Hello! This is the default welcome page for a Spring Web MVC project.</p>
