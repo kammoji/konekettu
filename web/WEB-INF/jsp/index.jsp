@@ -19,14 +19,16 @@
 
 				<!-- Header -->
 					<header id="header">
-						<span class="avatar"><img src="../img/kettu_facebook.png" alt="" /></span>
+						<span class="avatar"><img src="../img/kettu_facebook_small.png" alt="" /></span>
                                                 <h1><strong>Konekettu</strong><h1>
-                                                        <p>Kaikkea apua tietokoneen kanssa since 2008</p>
+                                                        <p>Kaikkea apua tietokoneen kanssa - since 2008.</p>
 						<ul class="icons">
 							<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
 							<li><a href="#" class="icon style2 fa-envelope-o"><span class="label">Email</span></a></li>
 						</ul>
+                                                        <p><b>juhana@konekettu.fi</b></p>
+                                                        <p><b>+358 50 378 5335</b></p>
 					</header>
 
 				<!-- Main -->
@@ -34,26 +36,24 @@
 
 						<!-- Thumbnails -->
 							<section class="thumbnails">
+                                                            <div></div>
 								<div>
-                                                                    <p>juhana@konekettu.fi</p>
-                                                                    <p>050 378 5335</p>
-
-									<a href="imag/fulls/02.jpg">
-										<img src="images/thumbs/02.jpg" alt="" />
-										<h3>Full contact and company info</h3>
+                                                                        
+                                                                        
+									<a href="../img/contact.png">
+										<h3>Full contact and company info.</h3>
 									</a>
-								</div>
-                                                            
-                                                            <div>
+								
 									<a href="../img/datascience_2018_1.png">
-										<img src="img/thumbs/01.jpg" alt="" />
-										<h3>Data science image of the week.</h3>
+										<img src="../img/datascience_2018_1.png" alt="R plot: Juhana Kammonen" />
+                                                                                <h3><b>Data science image of the week:</b> World earthquakes 2017</h3>
 									</a>
-									<a href="../img/pogo_2018_1.png">
-										<img src="images/thumbs/02.jpg" alt="" />
-										<h3>Pokémon GO image of the week</h3>
+									<a href="../img/pogo_2018_1.PNG">
+										<img src="../img/pogo_2018_1.PNG" alt="Photo: Juhana Kammonen" />
+                                                                                <h3><b>Pokémon GO image of the week:</b> Night stylin'</h3>
 									</a>
 								</div>
+                                                            <div></div>
 								
 
 							</section>
@@ -62,7 +62,7 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p>&copy; 2018. Konekettu. All rights reserved. Design: <a href="http://templated.co">TEMPLATED</a>.</p>
+						<p>&copy; 2018. Konekettu. Y-tunnus 2211584-5. All rights reserved. Design: <a href="http://templated.co">TEMPLATED</a>.</p>
 					</footer>
 
 			</div>
