@@ -21,7 +21,7 @@
 					<header id="header">
 						<span class="avatar"><img src="../img/kettu_facebook_small.png" alt="" /></span>
                                                 <h1><strong>Konekettu</strong><h1>
-                                                        <p>Kaikkea apua tietokoneen kanssa - since 2008.</p>
+                                                        <p>Kaikkea apua tietokoneen kanssa - since 2008</p>
 						<ul class="icons">
 							<li><a href="#" class="icon style2 fa-twitter"><span class="label">Twitter</span></a></li>
 							<li><a href="#" class="icon style2 fa-facebook"><span class="label">Facebook</span></a></li>
@@ -44,13 +44,13 @@
 										<h3>Full contact and company info.</h3>
 									</a>
 								
-									<a href="../img/datascience_2018_1.png">
-										<img src="../img/datascience_2018_1.png" alt="R plot: Juhana Kammonen" />
-                                                                                <h3><b>Data science image of the week:</b> World earthquakes 2017</h3>
+									<a href="../img/datascience_2018_38.png">
+										<img src="../img/datascience_2018_38.png" alt="R plot: Juhana Kammonen" />
+                                                                                <h3><b>Data science image 38/2018:</b> Locations of FMI weather stations in Finland</h3>
 									</a>
-									<a href="../img/pogo_2018_1.PNG">
-										<img src="../img/pogo_2018_1.PNG" alt="Photo: Juhana Kammonen" />
-                                                                                <h3><b>Pokémon GO image of the week:</b> Night stylin'</h3>
+									<a href="../img/pogo_2018_38.PNG">
+										<img src="../img/pogo_2018_38.PNG" alt="Photo: Juhana Kammonen" />
+                                                                                <h3><b>Pokémon GO image 38/2018:</b> September Community Day with Chikorita @ Vanhankirkon puisto, Helsinki</h3>
 									</a>
 								</div>
                                                             <div></div>
