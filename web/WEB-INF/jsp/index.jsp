@@ -44,13 +44,13 @@
 										<h3>Full contact and company info.</h3>
 									</a>
 								
-									<a href="../img/datascience_2018_38.png">
-										<img src="../img/datascience_2018_38.png" alt="R plot: Juhana Kammonen" />
-                                                                                <h3><b>Data science image 38/2018:</b> Locations of FMI weather stations in Finland</h3>
+									<a href="../img/datascience_2018_39.png">
+										<img src="../img/datascience_2018_39.png" alt="R plot: Juhana Kammonen" />
+                                                                                <h3><b>Data science image 39/2018:</b> Bitcoin's yearly Q4 performance. What will happen this year?</h3>
 									</a>
-									<a href="../img/pogo_2018_38.PNG">
-										<img src="../img/pogo_2018_38.PNG" alt="Photo: Juhana Kammonen" />
-                                                                                <h3><b>Pokémon GO image 38/2018:</b> September Community Day with Chikorita @ Vanhankirkon puisto, Helsinki</h3>
+									<a href="../img/pogo_2018_39.PNG">
+										<img src="../img/pogo_2018_39.PNG" alt="Photo: Juhana Kammonen" />
+                                                                                <h3><b>Pokémon GO image 39/2018:</b> Level to 33 and got my purple Omastar, I think he likes Jimi Hendrix :)</h3>
 									</a>
 								</div>
                                                             <div></div>
