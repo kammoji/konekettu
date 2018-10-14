@@ -44,13 +44,13 @@
 										<h3>Full contact and company info.</h3>
 									</a>
 								
-									<a href="../img/datascience_2018_40.png">
-										<img src="../img/datascience_2018_40.png" alt="R plot: Juhana Kammonen" />
-                                                                                <h3><b>Data science image 40/2018:</b> World cities 2018 with more than 2M population </h3>
+									<a href="../img/datascience_2018_41.png">
+										<img src="../img/datascience_2018_41.png" alt="R plot: Juhana Kammonen" />
+                                                                                <h3><b>Data science image 41/2018:</b> Injury time goals were notably more frequent in FIFA 2018 than FIFA 2014 </h3>
 									</a>
-									<a href="../img/pogo_2018_40.PNG">
-										<img src="../img/pogo_2018_40.PNG" alt="Photo: Juhana Kammonen" />
-                                                                                <h3><b>Pokémon GO image 40/2018:</b> My lucky Gyarados with cheaper Power ups</h3>
+									<a href="../img/pogo_2018_41.PNG">
+										<img src="../img/pogo_2018_41.PNG" alt="Photo: Juhana Kammonen" />
+                                                                                <h3><b>Pokémon GO image 41/2018:</b> Torrential October rain and new cap and gloves for winter :)</h3>
 									</a>
 								</div>
                                                             <div></div>
@@ -62,7 +62,7 @@
 
 				<!-- Footer -->
 					<footer id="footer">
-						<p>&copy; 2018. Konekettu. Y-tunnus 2211584-5. All rights reserved. Design: <a href="http://templated.co">TEMPLATED</a>.</p>
+						<p>&copy; 2018. Konekettu. VAT 2211584-5. All rights reserved. Design: <a href="http://templated.co">TEMPLATED</a>.</p>
 					</footer>
 
 			</div>
